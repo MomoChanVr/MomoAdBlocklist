@@ -10,6 +10,7 @@
 
 ||tiktok.com^
 ||coomeet.com^
+||iframe.coomeet.com^
 ||ome.tv^
 ||omegleweb.io^
 ||omegle.fun^
