@@ -1,3 +1,4 @@
 ! Momo AdGuard Block list
 
 ||edupage.org^
+||https://login1.edupage.org^
