@@ -1,0 +1,3 @@
+! Momo AdGuard Block list
+
+||edupage.org
