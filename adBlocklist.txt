@@ -9,3 +9,7 @@
 ! Actuall web to block
 
 ||tiktok.com^
+||coomeet.com^
+||ome.tv^
+||omegleweb.io^
+||omegle.fun^
