@@ -1,4 +1,11 @@
 ! Momo AdGuard Block list
 
-||edupage.org
-||login1.edupage.org
+! Test links
+
+||edupage.org^
+||login1.edupage.org^
+
+
+! Actuall web to block
+
+||tiktok.com^
